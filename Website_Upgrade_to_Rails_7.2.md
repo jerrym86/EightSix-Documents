@@ -1,4 +1,4 @@
-## Service Updates for Upgrading to Rails 7.2
+## Service Updates for Upgrading From 6.1 to Rails 7.2
 
 ### 1. Core Rails Gems
 - **`rails`** - Update from `6.1.7.8` to `7.2.x`
