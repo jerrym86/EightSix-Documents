@@ -1,4 +1,4 @@
-# Rails 6.1 to 8.1 Upgrade Checklist - Gemfile Dependencies
+# Service Updates for Upgrading From 6.1 to Rails 8.1
 
 This document lists all gem dependencies that require updates for the Rails 6.1 → 8.1 upgrade.
 
